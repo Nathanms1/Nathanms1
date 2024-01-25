@@ -1,6 +1,6 @@
 ## Olá!! Meu nome é Nathan!
 
-- 🌱 Estudando JavaScript;
+- 🌱 Estudando Java;
 
 <div align="center">
   <a href="https://github.com/Nathanms1">
